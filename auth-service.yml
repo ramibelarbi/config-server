@@ -7,7 +7,6 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/authdb?useSSL=false
     username: root
-    password: 98633589
   jpa:
     properties:
       hibernate:
